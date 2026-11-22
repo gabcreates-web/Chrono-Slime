@@ -3,6 +3,7 @@
 > *Bouncing back in time.*
 
 Built for the Haven Hack Club hackathon (theme: **Bounce Back**).
+https://chrono-slime.vercel.app
 
 ## About
 The name comes from *chronological*. You play as a slime launched backwards through history, from a neon future all the way to 1492. Most games hand you new abilities as you progress. Chrono-Slime does the opposite: every era strips away your technology until all you have left is raw physics and momentum.
